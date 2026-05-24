@@ -54,4 +54,4 @@ Continuous animations like the glowing effects are restricted to transform, opac
 
 ## 📝 License
 
-Feel free to draw inspiration from the design and code architecture, but please do not copy the project structure verbatim or use my personal identity/projects for your own portfolio.
+Feel free to draw inspiration from the design and code architecture, but please reach out and ask for my permission before copying the project structure or using this code for your own portfolio.
